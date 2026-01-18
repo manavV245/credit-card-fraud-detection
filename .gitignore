@@ -1,0 +1,16 @@
+# Python 
+__pycache__/ 
+*.pyc 
+.venv/
+.ipynb_checkpoints/
+
+# Data + Artifacts 
+data/raw/ 
+data/processed/ 
+models/
+*.joblib
+*.pkl
+
+# Editor
+.DS_Store
+.vscode/
